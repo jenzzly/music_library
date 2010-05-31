@@ -1,0 +1,97 @@
+LI              		{font: 11px Verdana color: #000000; text-decoration: none; align: justify}
+ 
+B               		{font: 11px Verdana; font-weight: bold}
+   
+A				{font: 11px Verdana; color:black; text-decoration: none}
+  
+A:hover			{font: 11px Verdana; color: #485E9E; text-decoration: underline overline}
+ 
+body            		{font: 11px Verdana; SCROLLBAR-FACE-COLOR: #8EA6D6;SCROLLBAR-HIGHLIGHT-COLOR: #CCD9F1;SCROLLBAR-SHADOW-COLOR: #CCD9F1;SCROLLBAR-3DLIGHT-COLOR: #FFFFFF;SCROLLBAR-ARROW-COLOR: #FFFFFF;SCROLLBAR-TRACK-COLOR: #EFF2FB;SCROLLBAR-DARKSHADOW-COLOR: #FFFFFF;MARGIN-TOP:0}
+   
+table.ccm			{border-color: #A5B5D6; background-color: #A5B5D6}
+   
+td            		{font: 11px Verdana; SCROLLBAR-FACE-COLOR: #8EA6D6;SCROLLBAR-HIGHLIGHT-COLOR: #CCD9F1;SCROLLBAR-SHADOW-COLOR: #CCD9F1;SCROLLBAR-3DLIGHT-COLOR: #FFFFFF;SCROLLBAR-ARROW-COLOR: #FFFFFF;SCROLLBAR-TRACK-COLOR: #EFF2FB;SCROLLBAR-DARKSHADOW-COLOR: #FFFFFF;}
+   
+th            		{font: 11px Verdana; font-weight: bold; background-color: #AFBBEF; SCROLLBAR-FACE-COLOR: #8EA6D6;SCROLLBAR-HIGHLIGHT-COLOR: #CCD9F1;SCROLLBAR-SHADOW-COLOR: #CCD9F1;SCROLLBAR-3DLIGHT-COLOR: #FFFFFF;SCROLLBAR-ARROW-COLOR: #FFFFFF;SCROLLBAR-TRACK-COLOR: #EFF2FB;SCROLLBAR-DARKSHADOW-COLOR: #FFFFFF;}
+    
+.Texte       		{font: 11px Verdana; color: #000000; }
+    .Texte:hover 		{font: 11px Verdana; color: #FF0000; }
+ 
+.Texte2			{font: 11px Verdana; color: #000000; font-weight: bold; text-decoration: none; }
+
+.Texte2:hover		{font: 11px Verdana; color: #000000; font-weight: bold; text-decoration: underline overline; }
+   
+.Titre			{font: 12px Verdana; color: #485E9E; font-weight: bold; }
+   
+.Titre:hover		{font: 12px Verdana; color: #485E9E; font-weight: bold; text-decoration: underline overline}
+  
+.Gris       		{font: 11px Verdana; color: #717171; text-decoration: italic;}
+   
+.Form 			{border-color : #8997D4;BORDER-BOTTOM-WIDTH: 0px;BORDER-LEFT-WIDTH: 1px;BORDER-RIGHT-WIDTH: 0px;BORDER-TOP-WIDTH: 1px;FONT-FAMILY: verdana;FONT-SIZE: 8pt;HEIGHT: 16px;MARGIN-LEFT: 0px; vertical-align:middle}
+   
+OPTION 			{font: 10px Verdana; color : #000000; font-weight:bold; background-color : #D6DEF7; }
+   
+TEXTAREA 			{font: 10px Verdana; color : #000000; font-weight:bold; background-color : #D6DEF7; }
+   
+INPUT 			{font: 10px Verdana; color : #000000; font-weight:bold; background-color : #D6DEF7; }
+  
+.new			{font: 10px Verdana; color: #FF0000;	font-weight: bold; letter-spacing: 4px;text-decoration: none}
+   
+.Petit			{font: 12px Verdana; color: #000000; text-decoration: none}
+   
+.mlink			{font: 12px Verdana; color: #5773AD; text-decoration: none}
+  
+.mlink:hover		{font: 12px Verdana; color: #5773AD; text-decoration: underline overline}
+  
+.Membre1			{font: 12px Verdana; color: #4985FF; text-decoration: none}
+ 
+.Membre1:hover		{font: 12px Verdana; color: #FF0000; text-decoration: underline overline}
+ 
+.Membre0			{font: 12px Verdana; color: #88A8EA; text-decoration: none}
+   
+.Membre0:hover		{font: 12px Verdana; color: #FF0000; text-decoration: underline overline}
+    
+.Forumred			{font: 11px Verdana; color: #FF0000; text-decoration: none; }
+   
+.Forumredb			{font: 11px Verdana; color: #FF0000; font-weight: bold;text-decoration: none; }
+   
+.Forumredb:hover			{font: 11px Verdana; color: #FF0000; font-weight: bold;text-decoration: underline overline; }
+   
+.Search1			{font: 12px Verdana; color: #8997D4; font-weight: bold;text-decoration: underline}
+    
+.Search1:hover			{font: 12px Verdana; color: #8997D4; font-weight: bold;text-decoration: underline overline}
+    
+.Search2			{font: 10px Verdana; color: #8997D4; text-decoration: underline}
+    
+.Search2:hover			{font: 10px Verdana; color: #8997D4; text-decoration: underline overline}
+    
+.rouge			{font: 10px Verdana; color: #FF0000; text-decoration: none}
+   
+.Code       		{font-family: "Courier New", Courier, mono; font-size: 12px; color: #526982; white-space: pre; }
+
+
+A { text-decoration:uderline;
+     color:cornflowerblue;}
+
+Textarea:focus {background-color=blue;}
+
+.menu{ text-decoration:uderline;
+       width:85%;
+       BORDER-TOP-WIDTH: 4px; PADDING-RIGHT: 4px; DISPLAY: block; PADDING-LEFT: 4px; BORDER-LEFT-WIDTH: 7px; BORDER-BOTTOM-WIDTH: 5px; PADDING-BOTTOM: 4px; MARGIN: 4px; FONT: 11px Verdana,Arial,sans-serif; COLOR: #1f60b2; PADDING-TOP: 2px; BORDER-RIGHT-WIDTH: 0px
+       
+     }
+.title{ font=arial;
+        color:green;
+        text-decoration:underline;      
+}
+.cool {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 2px; DISPLAY: block; PADDING-LEFT: 2px; BORDER-LEFT-WIDTH: 0px; BACKGROUND: white; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 2px; MARGIN: 0px; FONT: 11px Verdana,Arial,sans-serif; COLOR: #1f60b2; PADDING-TOP: 2px; BORDER-RIGHT-WIDTH: 0px
+}
+.news{ FONT: 11px Verdana,Arial,sans-serif; COLOR:black;
+
+     }
+     
+div#user_nav { float: right; font-size: 0.9em; }
+formList{font=arial;
+        color:green;
+        text-decoration:underline;}

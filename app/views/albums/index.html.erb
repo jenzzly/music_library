@@ -1,0 +1,25 @@
+<p align="right">Register<%= link_to "(New Admin)", new_user_path %></p>
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Artist</th>
+    <th>Release date</th>
+    <th>Genre</th>
+  </tr>
+
+<% @albums.each do |album| %>
+  <tr>
+    <td><%=h album.title %></td>
+    <td><%=h album.artist %></td>
+    <td><%=h album.release_date %></td>
+    <td><%=h album.genre %></td>
+    <td><%= link_to 'Show', album %></td>
+    <td><%= link_to 'Edit', edit_album_path(album) %></td>
+    <td><%= link_to 'Destroy', album, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+[<%= link_to 'New album', new_album_path %>]
